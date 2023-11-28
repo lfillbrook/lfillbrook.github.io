@@ -3,9 +3,11 @@ layout: default
 ---
 
 <div class="row g-5 mb-5">
-  <h3 class="fw-bold">About me</h3>
-  <img src="{{ site.github.url }}/assets/img/Me.jpg" class="float-end imgshadow" alt="Home">
-  {{ content }}
+  <div class="col-md-12">
+    <h3 class="fw-bold">About me</h3>
+    <img src="{{ site.github.url }}/assets/img/Me.jpg" class="w-25 float-end imgshadow" alt="Home">
+    {{ content }}
+  </div>
 </div>
 
 {% include publications.html %}
