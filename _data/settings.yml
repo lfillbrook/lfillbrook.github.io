@@ -7,3 +7,104 @@ social:
 - {icon: 'instagram', link: 'https://instagram.com/lucyfillbrook'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/lucy-fillbrook'}
 
+publications:
+- {title: 'Polydopamine as a Visible-Light Photosensitiser for Photoinitiated Polymerisation',
+   author: 'Christopher G. Bailey, Mitchell D. Nothling, Lucy L. Fillbrook, Yen Vo, Jonathon E. Beves, Dane R. McCamey, Martina H. Stenzel',
+   journal: 'Angew. Chem. Int. Ed.',
+   volume: '62',
+   pages: 'e202301678',
+   DOI: ' https://doi.org/10.1002/anie.202301678',
+   url: 'https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202301678',
+   year: '2023', 
+   image: 'assets/img/TOC/PDA2.jpg'
+  }
+- {title: 'Rapid Online Analysis of Photopolymerization Kinetics and Molecular Weight Using Diffusion NMR',
+   author: 'Lucy L. Fillbrook, Mitchell D. Nothling, Martina H. Stenzel, William S. Price, Jonathon E. Beves',
+   journal: 'ACS Macro Letters',
+   volume: '11',
+   pages: '166-172',
+   DOI: '10.1021/acsmacrolett.1c00719',
+   url: 'https://doi.org/10.1021/acsmacrolett.1c00719',
+   year: '2022', 
+   image: 'assets/img/TOC/ACSMacro.jpeg'
+  }
+- {title: 'Polymer Grafting to Polydopamine Free Radicals for Universal Surface Functionalization',
+   author: 'Mitchell D. Nothling, Christopher G. Bailey, Lucy L. Fillbrook, Guannan Wang, Yijie Gao, Dane R. McCamey, Marzieh Monfared, Sandy Wong, Jonathon E. Beves, Martina H. Stenzel',
+   journal: 'J. Am. Chem. Soc.',
+   volume: '144',
+   pages: '6992-7000',
+   DOI: '10.1021/jacs.2c02073',
+   url: 'https://doi.org/10.1021/jacs.2c02073',
+   year: '2022', 
+   image: 'assets/img/TOC/PDA.jpeg'
+  }
+- {title: 'Visible-Light Switching of Metallosupramolecular Assemblies',
+   author: 'Aaron D. W. Kennedy, Ray G. DiNardi, Lucy L. Fillbrook, William A. Donald, Jonathon E. Beves',
+   journal: 'Chem. Eur. J.',
+   volume: '28',
+   pages: 'e202104461',
+   DOI: 'https://doi.org/10.1002/chem.202104461',
+   url: 'https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202104461',
+   year: '2022', 
+   image: 'assets/img/TOC/ChemEuJ.jpg'
+  }
+- {title: 'Response to Comment on “Following Molecular Mobility during Chemical Reactions: No Evidence for Active Propulsion” and “Molecular Diffusivity of Click Reaction Components: The Diffusion Enhancement Question”',
+   author: 'Lucy L. Fillbrook, Jan-Philipp Günther, Günter Majer, Daniel J. O’Leary, William S. Price, Hal Van Ryswyk, Peer Fischer, Jonathon E. Beves',
+   journal: 'J. Am. Chem. Soc.',
+   volume: '144',
+   pages: '13436-13440',
+   DOI: '10.1021/jacs.2c02830',
+   url: 'https://doi.org/10.1021/jacs.2c02830',
+   year: '2022', 
+   image: 'assets/img/TOC/Response.jpeg'
+  }
+- {title: 'Comment on “Molecules, the Ultimate Nanomotor: Linking Chemical Reaction Intermediates to their Molecular Diffusivity”', 
+   author: 'Jan-Philipp Günther, Lucy L. Fillbrook, Günter Majer, Daniel J. O’Leary, William S. Price, Hal Van Ryswyk, Peer Fischer, Jonathon E. Beves',
+   journal: 'ACS Nano',
+   volume: '16',
+   pages: '9973-9976',
+   DOI: '10.1021/acsnano.2c01607',
+   url: 'https://doi.org/10.1021/acsnano.2c01607',
+   year: '2022', 
+   image: 'assets/img/TOC/ACSNano.jpeg'
+  }
+- {title: 'Following Molecular Mobility during Chemical Reactions: No Evidence for Active Propulsion',
+   author: 'Lucy L. Fillbrook, Jan-Philipp Günther, Günter Majer, Daniel J. O’Leary, William S. Price, Hal Van Ryswyk, Peer Fischer, Jonathon E. Beves',
+   journal: 'J. Am. Chem. Soc.',
+   volume: '143',
+   pages: '20884-20890',
+   DOI: '10.1021/jacs.1c09455',
+   url: 'https://doi.org/10.1021/jacs.1c09455',
+   year: '2021', 
+   image: 'assets/img/TOC/JAmChemSoc.jpeg'
+  }
+- {title: 'Comment on “Boosted molecular mobility during common chemical reactions”',
+   author: 'Jan-Philipp Günther, Lucy L. Fillbrook, Thomas S. C. MacDonald, Günter Majer, William S. Price, Peer Fischer, Jonathon E. Beves',
+   journal: 'Science',
+   volume: '371',
+   pages: 'eabe8322',
+   DOI: '10.1126/science.abe8322',
+   url: 'https://www.science.org/doi/pdf/10.1126/science.abe8322',
+   year: '2021', 
+   image: 'assets/img/TOC/Science.jpeg'
+  }
+ - {title: 'Comment on “Using NMR to Test Molecular Mobility during a Chemical Reaction”',
+   author: 'Lucy L. Fillbrook, Jan-Philipp Günther, Günter Majer, William S. Price, Peer Fischer, Jonathon E. Beves',
+   journal: 'J. Phys. Chem. Lett.',
+   volume: '12',
+   pages: '5932-5937',
+   DOI: '10.1021/acs.jpclett.1c00995',
+   url: 'https://doi.org/10.1021/acs.jpclett.1c00995',
+   year: '2021', 
+   image: 'assets/img/TOC/JPCL.jpeg'
+  }
+ - {title: 'Ultra-Low MolecularWeight Photoswitchable Hydrogelators',
+   author: 'Fayaz Ali Larik, Lucy L. Fillbrook, Sandra S. Nurttila, Adam D. Martin, Rhiannon P. Kuchel, Karrar Al Taief, Mohan Bhadbhade, Jonathon E. Beves, Pall Thordarson',
+   journal: 'Angew. Chem. Int. Ed.',
+   volume: '60',
+   pages: '6764-6770',
+   DOI: 'https://doi.org/10.1002/anie.202015703',
+   url: 'https://onlinelibrary.wiley.com/doi/10.1002/anie.202015703',
+   year: '2020', 
+   image: 'assets/img/TOC/Gels.jpg'
+  }
