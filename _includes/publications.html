@@ -3,8 +3,8 @@
     <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
     {% for item in site.data.publications.index %}
       <p><a href="{{ item.url }}">{{ item.title }}</a></p>
-      <p> item.author </p>
-      <p><i> item.journal </i> <b> item.year</b> <i> item.volume </i>, item.pages.</p>
+      <p>{{ item.author }}</p>
+      <p><i>{{ item.journal }}</i> <b>{{ item.year }}</b> <i>{{ item.volume }}</i>, {{ item.pages }}.</p>
     {% endfor %}
   </div>
 </div>
