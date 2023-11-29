@@ -4,12 +4,12 @@
     {% for item in site.data.publications.index %}
     <div class="row g-5 mb-5">
       <div class="col-md-6">
-        <p><a href="{{ item.url }}">{{ item.title }}</a></p>
+        <h4><a href="{{ item.url }}">{{ item.title }}</a></h4>
         <p>{{ item.author }}</p>
         <p><i>{{ item.journal }}</i> <b>{{ item.year }}</b> <i>{{ item.volume }}</i>, {{ item.pages }}.</p>
       <div>
       <div class="col-md-6">
-        <img src="{{ item.image }}" alt="Contact" width="100%">
+        <img src="{{ item.image }}" alt="" width="100%">
       </div>
     <div>
     {% endfor %}
