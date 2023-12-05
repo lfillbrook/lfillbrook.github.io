@@ -1,4 +1,5 @@
 menu:
+- {name: 'blog', url: '/blog'}
 - {name: 'publications', url: '/publications'}
 - {name: 'cv', url: '/cv'}
 
