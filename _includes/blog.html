@@ -2,7 +2,7 @@
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Blog</h3>
     {% for post in site.posts %}
-    <div class="row g-5 mb-5">
+    <div class="col-md-12">
       <h4><a href="{{ site.github.url }}/{{ post.url }}">{{ post.title }}</a></h4>
       <p>{{ post.description }}</p>
       <p class="text-muted">- {{ post.date | date: "%B %-d, %Y" }}</p>
