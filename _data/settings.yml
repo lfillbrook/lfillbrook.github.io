@@ -1,7 +1,7 @@
 menu:
 - {name: 'blog', url: '/blog'}
 - {name: 'publications', url: '/publications'}
-- {name: 'cv', url: '/cv'}
+- {name: 'cv', url: '/assets/LucyFillbrook.pdf'}
 
 social:
 - {icon: 'github', link: 'https://github.com/lfillbrook'}
