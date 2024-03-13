@@ -9,7 +9,7 @@ After completing my PhD in 2023, I was fortunate enough to do some travelling ar
 One country that stood out to me was Switzerland – and not just for its ubiquitous mountain views and cascading waterfalls. As an environmentalist, I’m keenly interested in renewable energy, so I was very excited to visit several of Switzerland’s hydroelectric dams and get up-close to the incredible feats of engineering. 
 
 <figure>
-  <img src="{{site.url}}/assets/img/CH/Moiry.jpg" alt="Moiry dam"/>
+  <img src="{{site.url}}/assets/img/CH/Moiry.jpg" alt="Moiry dam" class="w-50 float-end imgshadow"/>
   <figcaption>Parked up under the [Moiry dam](https://www.alpiq.com/power-generation/hydropower-plants/storage-power-plants/gougra): constructed between 1954-1958, reservoir holds 77 M m<sup>3</sup> of water and produces 650 M kWh annually.</figcaption>
 </figure>
 
