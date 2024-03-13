@@ -8,14 +8,7 @@ After completing my PhD in 2023, I was fortunate enough to do some travelling ar
 
 One country that stood out to me was Switzerland – and not just for its ubiquitous mountain views and cascading waterfalls. As an environmentalist, I’m keenly interested in renewable energy, so I was very excited to visit several of Switzerland’s hydroelectric dams and get up-close to the incredible feats of engineering. 
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        <img src="{{ site.github.url }}/assets/img/CH/Moiry.jpg" class="img-fluid rounded z-depth-1">
-    </div>
-</div>
-<div class="caption">
-    Parked up under the <a href="https://www.alpiq.com/power-generation/hydropower-plants/storage-power-plants/gougra">Moiry dam</a>: constructed between 1954-1958, reservoir holds 77 M m$$^3$$ of water and produces 650 M kWh annually.
-</div>
+![Moiry dam](https://github.com/lfillbrook/lfillbrook.github.io/blob/main/assets/img/CH/Moiry.jpg)
 
 I couldn’t pass on the chance to visit the tallest gravity dam in the world: the <a href="https://www.grande-dixence.ch/en/the-complex/dams/grande-dixence-78/">Grande Dixence dam</a>, just a short, scenic drive from the town of Sion. The monumental 285 m high dam contains the Lac des Dix which holds up to 400 M m$$^3$$ of cloudy blue water, collected from 35 glaciers, and represents 20% of the storable energy produced in Switzerland.
 
