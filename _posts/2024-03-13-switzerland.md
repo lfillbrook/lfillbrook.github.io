@@ -10,7 +10,7 @@ One country that stood out to me was Switzerland – and not just for its ubiqui
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/CH/Moiry.jpg" class="img-fluid rounded z-depth-1" %}
+        <img src="{{ site.github.url }}/assets/img/CH/Moiry.jpg" class="img-fluid rounded z-depth-1">
     </div>
 </div>
 <div class="caption">
